@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: This is test post	</title>
-	<atom:link href="http://https://kuchbhihindi.github.io/wpsite/2019/03/20/this-is-test-post/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://kuchbhihindi.github.io/wpsite/2019/03/20/this-is-test-post/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>
 	Wed, 20 Mar 2019 14:55:01 +0000	</lastBuildDate>

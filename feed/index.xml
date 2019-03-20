@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Kuchbhihindi.com</title>
-	<atom:link href="http://https://kuchbhihindi.github.io/wpsite/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://kuchbhihindi.github.io/wpsite/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>
 	Wed, 20 Mar 2019 14:56:55 +0000	</lastBuildDate>
@@ -22,34 +22,34 @@
 	<generator>https://wordpress.org/?v=5.1.1</generator>
 	<item>
 		<title>This is test post</title>
-		<link>http://https://kuchbhihindi.github.io/wpsite/2019/03/20/this-is-test-post/</link>
-				<comments>http://https://kuchbhihindi.github.io/wpsite/2019/03/20/this-is-test-post/#respond</comments>
+		<link>./../2019/03/20/this-is-test-post/index.html</link>
+				<comments>./../2019/03/20/this-is-test-post/index.html#respond</comments>
 				<pubDate>Wed, 20 Mar 2019 14:56:55 +0000</pubDate>
 		<dc:creator><![CDATA[kuchbhihindi]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://https://kuchbhihindi.github.io/wpsite/?p=5</guid>
+		<guid isPermaLink="false">./../index.html?p=5</guid>
 				<description><![CDATA[Hello there it is test post]]></description>
 								<content:encoded><![CDATA[
 <p>Hello there it is test post</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://https://kuchbhihindi.github.io/wpsite/2019/03/20/this-is-test-post/feed/</wfw:commentRss>
+							<wfw:commentRss>./../2019/03/20/this-is-test-post/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Hello world!</title>
-		<link>http://https://kuchbhihindi.github.io/wpsite/2019/03/20/hello-world/</link>
-				<comments>http://https://kuchbhihindi.github.io/wpsite/2019/03/20/hello-world/#comments</comments>
+		<link>./../2019/03/20/hello-world/index.html</link>
+				<comments>./../2019/03/20/hello-world/index.html#comments</comments>
 				<pubDate>Wed, 20 Mar 2019 14:55:01 +0000</pubDate>
 		<dc:creator><![CDATA[kuchbhihindi]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://https://kuchbhihindi.github.io/wpsite/?p=1</guid>
+		<guid isPermaLink="false">./../index.html?p=1</guid>
 				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 								<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://https://kuchbhihindi.github.io/wpsite/2019/03/20/hello-world/feed/</wfw:commentRss>
+							<wfw:commentRss>./../2019/03/20/hello-world/feed/index.html</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 							</item>
 	</channel>
